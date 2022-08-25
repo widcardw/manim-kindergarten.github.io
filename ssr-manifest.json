@@ -48,175 +48,175 @@
   "../../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.de827bfa.js-unocss-hash.css": [],
+  "assets/app.6359c282.js-unocss-hash.css": [],
   "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/manim-kindergarten.github.io/assets/virtual_pwa-register.e8eca3d9.js"
+    "/assets/virtual_pwa-register.80a10119.js"
   ],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/manim-kindergarten.github.io/assets/virtual_pwa-register.e8eca3d9.js"
+    "/assets/virtual_pwa-register.80a10119.js"
   ],
   "src/layouts/404.vue": [
-    "/manim-kindergarten.github.io/assets/404.3050686f.js"
+    "/assets/404.31c09b5c.js"
   ],
   "src/layouts/home.vue": [
-    "/manim-kindergarten.github.io/assets/home.7e242062.js"
+    "/assets/home.323dafc7.js"
   ],
   "src/pages/[...all].vue": [
-    "/manim-kindergarten.github.io/assets/_...all_.5246faee.js"
+    "/assets/_...all_.f52c018c.js"
   ],
   "src/pages/about.md": [
-    "/manim-kindergarten.github.io/assets/about.a80dc376.js"
+    "/assets/about.aac08871.js"
   ],
   "src/pages/docs.vue": [
-    "/manim-kindergarten.github.io/assets/docs.1e8457e1.js"
+    "/assets/docs.e23831bd.js"
   ],
   "src/components/Card.vue": [
-    "/manim-kindergarten.github.io/assets/downloadPath.76e468aa.js"
+    "/assets/downloadPath.09529f9d.js"
   ],
   "src/data/downloadPath.ts": [
-    "/manim-kindergarten.github.io/assets/downloadPath.76e468aa.js"
+    "/assets/downloadPath.09529f9d.js"
   ],
   "src/components/PureCard.vue": [
-    "/manim-kindergarten.github.io/assets/PureCard.0979f243.js"
+    "/assets/PureCard.148fd1c5.js"
   ],
   "src/components/AnimateComponent.vue": [
-    "/manim-kindergarten.github.io/assets/AnimateComponent.6e0afe0c.js"
+    "/assets/AnimateComponent.cbdd6d17.js"
   ],
   "src/components/accordion/Accordion.vue": [
-    "/manim-kindergarten.github.io/assets/membership.5d8245c7.js"
+    "/assets/membership.ba4c343d.js"
   ],
   "src/components/accordion/AccordionRow.vue": [
-    "/manim-kindergarten.github.io/assets/membership.5d8245c7.js"
+    "/assets/membership.ba4c343d.js"
   ],
   "src/components/Avatar.vue": [
-    "/manim-kindergarten.github.io/assets/membership.5d8245c7.js"
+    "/assets/membership.ba4c343d.js"
   ],
   "src/data/core-members.json": [
-    "/manim-kindergarten.github.io/assets/membership.5d8245c7.js"
+    "/assets/membership.ba4c343d.js"
   ],
   "src/data/up-members.json": [
-    "/manim-kindergarten.github.io/assets/membership.5d8245c7.js"
+    "/assets/membership.ba4c343d.js"
   ],
   "src/data/thanks.json": [
-    "/manim-kindergarten.github.io/assets/membership.5d8245c7.js"
+    "/assets/membership.ba4c343d.js"
   ],
   "src/pages/membership.vue": [
-    "/manim-kindergarten.github.io/assets/membership.5d8245c7.js"
+    "/assets/membership.ba4c343d.js"
   ],
   "src/pages/tools.vue": [
-    "/manim-kindergarten.github.io/assets/tools.910d3cf6.js"
+    "/assets/tools.e17dd17c.js"
   ],
   "src/pages/en/about.md": [
-    "/manim-kindergarten.github.io/assets/about.e1a3e857.js"
+    "/assets/about.f0e6088b.js"
   ],
   "../../../../../assets/notes.png": [
-    "/manim-kindergarten.github.io/assets/manim-cairo.9caa9b28.js"
+    "/assets/manim-cairo.4d60ff0e.js"
   ],
   "../../../../../assets/plot_depth1.png": [
-    "/manim-kindergarten.github.io/assets/manim-cairo.9caa9b28.js"
+    "/assets/manim-cairo.4d60ff0e.js"
   ],
   "../../../../../assets/plot_depth2.png": [
-    "/manim-kindergarten.github.io/assets/manim-cairo.9caa9b28.js"
+    "/assets/manim-cairo.4d60ff0e.js"
   ],
   "../../../../../assets/gif-inserts.png": [
-    "/manim-kindergarten.github.io/assets/manim-cairo.9caa9b28.js"
+    "/assets/manim-cairo.4d60ff0e.js"
   ],
   "src/pages/problems/manim-cairo.md": [
-    "/manim-kindergarten.github.io/assets/manim-cairo.9caa9b28.js"
+    "/assets/manim-cairo.4d60ff0e.js"
   ],
   "src/components/canvas/colors.ts": [
-    "/manim-kindergarten.github.io/assets/Logo.74680371.js",
-    "/manim-kindergarten.github.io/assets/Logo.1465b54c.css"
+    "/assets/Logo.61e906ab.js",
+    "/assets/Logo.1465b54c.css"
   ],
   "src/components/canvas/useDescartes.ts": [
-    "/manim-kindergarten.github.io/assets/Logo.74680371.js",
-    "/manim-kindergarten.github.io/assets/Logo.1465b54c.css"
+    "/assets/Logo.61e906ab.js",
+    "/assets/Logo.1465b54c.css"
   ],
   "src/components/canvas/useTriangle.ts": [
-    "/manim-kindergarten.github.io/assets/Logo.74680371.js",
-    "/manim-kindergarten.github.io/assets/Logo.1465b54c.css"
+    "/assets/Logo.61e906ab.js",
+    "/assets/Logo.1465b54c.css"
   ],
   "src/components/canvas/MyCanvas.vue": [
-    "/manim-kindergarten.github.io/assets/Logo.74680371.js",
-    "/manim-kindergarten.github.io/assets/Logo.1465b54c.css"
+    "/assets/Logo.61e906ab.js",
+    "/assets/Logo.1465b54c.css"
   ],
   "src/components/Logo.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/manim-kindergarten.github.io/assets/Logo.74680371.js",
-    "/manim-kindergarten.github.io/assets/Logo.1465b54c.css"
+    "/assets/Logo.61e906ab.js",
+    "/assets/Logo.1465b54c.css"
   ],
   "src/components/Logo.vue": [
-    "/manim-kindergarten.github.io/assets/Logo.74680371.js",
-    "/manim-kindergarten.github.io/assets/Logo.1465b54c.css"
+    "/assets/Logo.61e906ab.js",
+    "/assets/Logo.1465b54c.css"
   ],
   "src/components/Back.vue": [
-    "/manim-kindergarten.github.io/assets/Back.da639799.js"
+    "/assets/Back.5fd86b2a.js"
   ],
   "../../../../../logo/turn_to_grant.jpg": [
-    "/manim-kindergarten.github.io/assets/turn_to_grant.d29b9a7c.js"
+    "/assets/turn_to_grant.d69f0649.js"
   ],
   "src/pages/problems/manimgl.md": [
-    "/manim-kindergarten.github.io/assets/manimgl.77c96893.js"
+    "/assets/manimgl.072a6236.js"
   ],
   "src/pages/problems/new_usage.md": [
-    "/manim-kindergarten.github.io/assets/new_usage.04973ced.js"
+    "/assets/new_usage.0938c59b.js"
   ],
   "src/pages/problems/persuade2quit.md": [
-    "/manim-kindergarten.github.io/assets/persuade2quit.25200e55.js"
+    "/assets/persuade2quit.e07859db.js"
   ],
   "src/components/tabs/Tabs.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/components/tabs/Tabs.vue": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/components/tabs/TabPane.vue": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/components/ClickCopy.vue": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/components/color_tool/tabRenderer.ts": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/data/manim-cairo-colors.json": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/components/color_tool/ManimColors.vue": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/data/manimgl-colors.json": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/components/color_tool/ManimglColors.vue": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/components/color_tool/BuiltinColors.vue": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/components/color_tool/ColorPicker.vue": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/components/color_tool/hex2rgb.vue": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/components/color_tool/rgb2hex.vue": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ],
   "src/pages/tool/color.vue": [
-    "/manim-kindergarten.github.io/assets/color.accf9859.js",
-    "/manim-kindergarten.github.io/assets/color.f4842313.css"
+    "/assets/color.75d52c9b.js",
+    "/assets/color.f4842313.css"
   ]
 }
