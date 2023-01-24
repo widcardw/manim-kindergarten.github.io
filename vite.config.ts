@@ -11,8 +11,8 @@ import { VitePWA } from 'vite-plugin-pwa'
 import VueI18n from '@intlify/vite-plugin-vue-i18n'
 import Inspect from 'vite-plugin-inspect'
 import Inspector from 'vite-plugin-vue-inspector'
-import Prism from 'markdown-it-prism'
 import LinkAttributes from 'markdown-it-link-attributes'
+import Shiki from 'markdown-it-shiki'
 import Unocss from 'unocss/vite'
 // @ts-expect-error declaration
 import markdownItKatex from 'markdown-it-new-katex'
@@ -84,7 +84,6 @@ export default defineConfig({
       headEnabled: true,
       markdownItSetup(md) {
         // https://prismjs.com/
-        md.use(Prism)
         md.use(LinkAttributes, {
           matcher: (link: string) => /^https?:\/\//.test(link),
           attrs: {
@@ -95,6 +94,13 @@ export default defineConfig({
         md.use(markdownItKatex)
         md.use(markdownItAnchor)
         md.use(markdownItFootnote)
+        md.use(Shiki, {
+          theme: {
+            light: 'vitesse-light',
+            dark: 'vitesse-dark',
+          },
+          highlightLines: true,
+        })
         md.use(markdownItTableOfContents, {
           includeLevel: [2, 3, 4],
           containerHeaderHtml: '<h3>Contents</h3>',
